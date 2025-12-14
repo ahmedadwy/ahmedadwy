@@ -18,8 +18,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 Hi, I'm Ahmed Adwy, a frontend engineer from Egypt . Dedicated to being a fullstack engineer.
 
-<a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
-
 ## ✏️ Recent Blog
 
 - <a href='https://ahmedadwy.github.io/leon_template/' target='_blank'>leon template</a> - 2019-05-18
