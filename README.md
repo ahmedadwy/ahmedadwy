@@ -4,7 +4,7 @@ src="#" height="32" /></h1>
 
 <br />
 
-Hi, I'm Ahmed Adwy, a frontend engineer from Egypt . Dedicated to being a fullstack engineer.
+Hi, I'm Ahmed Adwy, a frontend engineer from Egypt . Dedicated to being a software engineer.
 
 ## ✏️ Recent Blog
 
