@@ -5,6 +5,7 @@ src="#" height="32" /></h1>
 <br />
 
 Hey 👋 I'm Ahmed, a Junior Frontend Developer from Egypt.
+<br />
 I build responsive and modern web interfaces using React, HTML, CSS, and JavaScript.
 
 ## ✏️ Recent Blog
