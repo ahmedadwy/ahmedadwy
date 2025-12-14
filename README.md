@@ -53,12 +53,23 @@ I enjoy transforming UI/UX designs into clean, efficient code and continuously i
 
 <h3>🛠 Tech Stack</h3>
 
-<p>
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/logo-html.svg" height="40" alt="HTML" />
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/logo-css.svg" height="40" alt="CSS" />
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/logo-javascript.svg" height="40" alt="JavaScript" />
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/logo-react.svg" height="40" alt="React" />
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/logo-git.svg" height="40" alt="Git" />
+<p align="left">
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React"/>
+
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" title="VS Code"/>
+</p>
+
+<p align="left">
+  <!-- Optional / Learning -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" title="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS"/>
 </p>
 
 <hr/>
