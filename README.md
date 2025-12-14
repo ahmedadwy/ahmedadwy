@@ -22,12 +22,10 @@ Hi, I'm Ahmed Adwy, a frontend engineer from Egypt . Dedicated to being a fullst
 
 ## ✏️ Recent Blog
 
-- <a href='https://ahmedadwy.github.io/leon_template/' target='_blank'>leon_template</a> - 2019-05-18
-- <a href='http://www.blackcater.win/2019/01-01/javascript-engine-shapes-ics' target='_blank'>JavaScript引擎基础：形与行内缓存（翻译）</a> - 2019-05-01
-- <a href='http://www.blackcater.win/2019/04-09/iview-usage-experience' target='_blank'>iview 使用经验总结</a> - 2019-04-09
-- <a href='http://www.blackcater.win/2019/03-01/deploy-your-own-npm-registry' target='_blank'>搭建私有npm镜像</a> - 2019-03-01
-- <a href='http://www.blackcater.win/2019/02-08/mini-program-usage-experience-for-finger' target='_blank'>“Finger 音乐课堂”小程序开发总结</a> - 2019-02-08
-
+- <a href='https://ahmedadwy.github.io/leon_template/' target='_blank'>leon template</a> - 2019-05-18
+- <a href='https://ahmedadwy.github.io/education_site/' target='_blank'>education site</a> - 2019-05-01
+- <a href='https://ahmedadwy.github.io/kasper_template/' target='_blank'>kasper template</a> - 2019-04-09
+- <a href='https://ahmedadwy.github.io/coming_soon/' target='_blank'>coming soon</a> - 2019-03-01
 <!-- blog_plugin_start -->
 
 <!-- blog_plugin_end -->
