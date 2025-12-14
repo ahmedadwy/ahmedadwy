@@ -17,7 +17,9 @@
 <h3>👨‍💻 About Me</h3>
 <p>
 I'm Ahmed, a <strong>Junior Frontend Developer</strong> from Egypt 🇪🇬 and a Computer & Information Sciences graduate.
+   <br/>
 I build <strong>responsive, modern, and user-friendly web interfaces</strong> using HTML, CSS, JavaScript, and React.
+   <br/>
 I enjoy turning UI/UX designs into clean, efficient code and continuously improving my frontend skills through real-world projects.
 </p>
 
