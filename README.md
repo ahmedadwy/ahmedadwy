@@ -4,7 +4,8 @@ src="#" height="32" /></h1>
 
 <br />
 
-Hi, I'm Ahmed Adwy, a frontend engineer from Egypt . Dedicated to being a software engineer.
+Hey 👋 I'm Ahmed, a Junior Frontend Developer from Egypt.
+I build responsive and modern web interfaces using React, HTML, CSS, and JavaScript.
 
 ## ✏️ Recent Blog
 
